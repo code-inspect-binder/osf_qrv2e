@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/qrv2e_src/Codes")' >> /home/jovyan/.Rprofile
